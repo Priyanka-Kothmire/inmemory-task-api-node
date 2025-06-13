@@ -22,19 +22,7 @@ Server runs at: http://localhost:3000
 
 ---
 
-📦 API Endpoints (POSTMAN)
-
-Create a new task (Post) :  http://localhost:3000/tasks
-
-Get all tasks(Get) :   http://localhost:3000/tasks
-
-Update the title of a task by ID  (put) :   http://localhost:3000/tasks/1
-
-Delete a task by ID (Delete) :    http://localhost:3000/tasks/1 
-
----
-
-⚠️ Notes
+## ⚠️ Notes
 All tasks are stored in memory – once the server restarts, data is lost.
 
 If a task is not found (wrong ID), returns: 404 Not Found.
@@ -44,7 +32,8 @@ For invalid JSON input, returns: 400 Bad Request.
 ---
 
 
-👩‍💻 Author
+## 👩‍💻 Author
+
 Priyanka Kothmire
 GitHub: Priyanka-Kothmire
 
