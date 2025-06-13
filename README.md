@@ -45,7 +45,8 @@ For invalid JSON input, returns: 400 Bad Request.
 ## 👩‍💻 Author
 
 Priyanka Kothmire
-GitHub: Priyanka-Kothmire
+
+---
 
 
 
